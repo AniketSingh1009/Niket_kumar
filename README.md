@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Rebelaniket
-- 👀 I’m interested in front end and backend 
-- 🌱 I’m currently learning java and oracle
-- 💞️ I’m looking to collaborate on java and oracle project
 - 📫 How to reach me ... Email me on kumarniket924@gmail.com
 
 <!---
